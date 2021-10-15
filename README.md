@@ -16,6 +16,9 @@ https://github.com/sharkDoor/vpn_free_nodes/tree/master/client
 
 #### windows & macOS
 
+<img width="825" alt="使用方式" src="https://user-images.githubusercontent.com/92512556/137468908-5f4d69ec-cad3-419b-ada7-3aea3595f67c.png">
+
+
 #### linux
 
 https://github.com/sharkDoor/vpn_free_nodes/tree/master/linux
