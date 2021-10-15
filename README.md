@@ -5,13 +5,12 @@
 ## 节点列表
 
 ### 2021-10-15日更新
-| 协议      | 服务器 | 端口 | 密码 |   地区|
-| ----------- | ----------- |----------- |----------- |----------- |
-| Trojan      | jp4c56.t4v.fun       |18003       |tMzUOS       |日本|
-| Trojan      | jpfy87.t3v.fun       |17503       |tMzUOS       |日本|
-| Trojan      | usk3w3.t3v.fun       |17511       |tMzUOS       |美国|
-| Trojan      | spfrvf.t3v.fun       |17515       |tMzUOS       |新加坡|
-| Trojan      | hk9aws.t4v.fun       |18016       |tMzUOS       |香港|
+
+1. [trojan1](日本----jp4c56.t4v.fun-----18003----tMzUOS) 
+2. [trojan1](日本----jpfy87.t3v.fun-----17503----tMzUOS) 
+3. [trojan1](美国----usk3w3.t3v.fun-----17511----tMzUOS) 
+4. [trojan1](新加坡----spfrvf.t3v.fun-----17515----tMzUOS) 
+5. [trojan1](香港----hk9aws.t4v.fun-----18016----tMzUOS) 
 
 
 ## 客户端下载
