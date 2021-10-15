@@ -13,6 +13,11 @@
 3. [trojan3](美国----usk3w3.t3v.fun-----17511----tMzUOS) 
 4. [trojan4](新加坡----spfrvf.t3v.fun-----17515----tMzUOS) 
 5. [trojan5](香港----hk9aws.t4v.fun-----18016----tMzUOS) 
+6. [trojan6](韩国----krqzd0.dt1.fun-----10536----tMzUOS) 
+7. [trojan7](加拿大----cawqgm.t4v.fun-----18060----tMzUOS) 
+8. [trojan8](日本----jp359h.dt1.fun-----10516----tMzUOS) 
+9. [trojan9](英国----ukxddv.dt1.fun-----10622----tMzUOS) 
+10. [trojan10](香港----hku0q6.dt1.fun-----10525----tMzUOS) 
 
 
 ## 客户端下载
