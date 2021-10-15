@@ -10,11 +10,13 @@
 
 ## 客户端下载
 
-https://github.com/sharkDoor/trojan/releases/tag/v1.16.0
+https://github.com/sharkDoor/vpn_free_nodes/tree/master/client
 
 ### 客户端使用方式
 
 #### windows & macOS
 
 #### linux
+
+https://github.com/sharkDoor/vpn_free_nodes/tree/master/linux
 
