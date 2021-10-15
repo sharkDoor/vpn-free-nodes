@@ -9,10 +9,10 @@
 `为了安全做成链接的形式，链接后缀分别对应地区--服务器--端口--密码。`
 
 1. [trojan1](日本----jp4c56.t4v.fun-----18003----tMzUOS) 
-2. [trojan1](日本----jpfy87.t3v.fun-----17503----tMzUOS) 
-3. [trojan1](美国----usk3w3.t3v.fun-----17511----tMzUOS) 
-4. [trojan1](新加坡----spfrvf.t3v.fun-----17515----tMzUOS) 
-5. [trojan1](香港----hk9aws.t4v.fun-----18016----tMzUOS) 
+2. [trojan2](日本----jpfy87.t3v.fun-----17503----tMzUOS) 
+3. [trojan3](美国----usk3w3.t3v.fun-----17511----tMzUOS) 
+4. [trojan4](新加坡----spfrvf.t3v.fun-----17515----tMzUOS) 
+5. [trojan5](香港----hk9aws.t4v.fun-----18016----tMzUOS) 
 
 
 ## 客户端下载
