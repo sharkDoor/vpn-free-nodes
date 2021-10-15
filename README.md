@@ -2,12 +2,16 @@
 
 不定时更新分享免费的vpn节点，主要提供Trojan和V2Ray这两种快速稳定的vpn代理协议，可以随时随地搭建自己的梯子科学上网。（节点数据来源于网络，如有问题可随时联系 shark.door@outlook.com）
 
-[TOC]
-
 ## 节点列表
 
 ### 2021-10-15日更新
-
+| 协议      | 服务器 | 端口 | 密码 |   地区|
+| ----------- | ----------- |
+| Trojan      | jp4c56.t4v.fun       |18003       |tMzUOS       |日本|
+| Trojan      | jpfy87.t3v.fun       |17503       |tMzUOS       |日本|
+| Trojan      | usk3w3.t3v.fun       |17511       |tMzUOS       |美国|
+| Trojan      | spfrvf.t3v.fun       |17515       |tMzUOS       |新加坡|
+| Trojan      | hk9aws.t4v.fun       |18016       |tMzUOS       |香港|
 
 
 ## 客户端下载
