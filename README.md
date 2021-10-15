@@ -23,9 +23,11 @@ https://github.com/sharkDoor/vpn_free_nodes/tree/master/client
 <img width="500" alt="使用方式" src="https://user-images.githubusercontent.com/92512556/137505539-ee9b6c83-04f7-48ba-979f-569c6bb7b3ce.png">
 
 `默认代理模式是PAC模式，PAC会根据更新到的防火墙规则进行自动代理，国内会直连访问，是推荐的代理方式。如果要访问的网站不能打开可以尝试“全局模式”。`
+
 <img width="500" alt="使用方式" src="https://user-images.githubusercontent.com/92512556/137505979-13085e67-9850-49e4-925e-d9570bc77802.png">
 
 `如果命令行需要使用代理，则可以使用以下功能：`
+
 <img width="500" alt="使用方式" src="https://user-images.githubusercontent.com/92512556/137506327-cd7e95a3-7388-4c61-b94b-0c5274dfd799.png">
 
 
