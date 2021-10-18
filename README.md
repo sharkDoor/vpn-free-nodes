@@ -6,11 +6,9 @@
 
 ### 2021-10-18日更新
 
-`为了安全做成链接的形式，链接后缀分别对应地区--服务器--端口--密码。`
-
 |地区|协议|url|
 |---|---|---|
-|日本|trojan|<a href='trojan://tMzUOS@183.240.60.128:18004?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+62+%C2%B7+IEPL%E4%B8%93%E7%BA%BF'>右键复制链接</a>|
+|日本|trojan|trojan://tMzUOS@183.240.60.128:18004?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+62+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
 |日本|V2Ray|  vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgNjIgwrcgSUVQTOS4k+e6vyIsImFkZCI6ImpwemZ2OC50NHYuZnVuIiwicG9ydCI6MTgwMDQsImlkIjoiZDJkODlhYWItOGJkNC04OGY5LWE2NzYtMTM5YzljOWExZjUyIiwiYWlkIjoiIiwiaG9zdCI6ImpwemZ2OC50NHYuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==  |
 |日本|trojan|trojan://tMzUOS@59.38.139.16:17509?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+214+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
 |日本|V2Ray|vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgMjIzIMK3IElFUEzkuJPnur8iLCJhZGQiOiJqcGZ6Y3oudDR2LmZ1biIsInBvcnQiOjE4MDEwLCJpZCI6ImQyZDg5YWFiLThiZDQtODhmOS1hNjc2LTEzOWM5YzlhMWY1MiIsImFpZCI6IiIsImhvc3QiOiJqcGZ6Y3oudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=|
