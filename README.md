@@ -1,13 +1,22 @@
 # vpn_free_nodes
 
-不定时更新分享免费的vpn节点，主要提供免费Trojan节点和免费V2Ray节点，这两种是快速稳定的vpn代理协议，可以随时随地搭建自己的梯子科学上网。（节点数据来源于网络，如有问题可随时联系 shark.door@outlook.com）
+不定时更新分享免费的vpn节点，主要提供免费Trojan节点和免费V2Ray节点，这两种是快速稳定的vpn代理协议，可以随时随地搭建自己的梯子科学上网。（`节点数据来源于网络，如有问题可随时联系 shark.door@outlook.com`）
+
+## 导航
+
+- [节点列表](#节点列表)
+	- [2021-10-18日更新](#2021-10-18日更新)
+- [客户端下载](#客户端下载)
+- [使用方式](#使用方式)
+ 	- [客户端下载](#客户端下载)
+ 	- [linux](#linux)
 
 ## 节点列表
 
 ### 2021-10-18日更新
 
 |地区|协议|url|
-|---|---|---|
+|---|---|:---|
 |日本|trojan|trojan://tMzUOS@183.240.60.128:18004?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+62+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
 |日本|V2Ray|  vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgNjIgwrcgSUVQTOS4k+e6vyIsImFkZCI6ImpwemZ2OC50NHYuZnVuIiwicG9ydCI6MTgwMDQsImlkIjoiZDJkODlhYWItOGJkNC04OGY5LWE2NzYtMTM5YzljOWExZjUyIiwiYWlkIjoiIiwiaG9zdCI6ImpwemZ2OC50NHYuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==  |
 |日本|trojan|trojan://tMzUOS@59.38.139.16:17509?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+214+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
@@ -24,13 +33,13 @@
 |香港|V2Ray|vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgRDExNiDCtyBJRVBM5LiT57q/IiwiYWRkIjoiaGtjZ2ViLnQ0di5mdW4iLCJwb3J0IjoxODA4MCwiaWQiOiJkMmQ4OWFhYi04YmQ0LTg4ZjktYTY3Ni0xMzljOWM5YTFmNTIiLCJhaWQiOiIiLCJob3N0IjoiaGtjZ2ViLnQ0di5mdW4iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9wMDkiLCJ0bHMiOiJ0bHMifQ==|
 
 
-## 客户端下载
+## 使用方式
+
+### 客户端下载
 
 https://github.com/sharkDoor/vpn_free_nodes/tree/master/client
 
-### 客户端使用方式
-
-#### windows & macOS
+### windows和macOS
 
 <img width="500" alt="使用方式" src="https://user-images.githubusercontent.com/92512556/137658786-2579e131-9f24-48e1-855a-4941b6d69aee.png">
 
@@ -47,7 +56,7 @@ https://github.com/sharkDoor/vpn_free_nodes/tree/master/client
 <img width="500" alt="使用方式" src="https://user-images.githubusercontent.com/92512556/137506327-cd7e95a3-7388-4c61-b94b-0c5274dfd799.png">
 
 
-#### linux
+### linux
 
 https://github.com/sharkDoor/vpn_free_nodes/tree/master/linux
 
