@@ -5,6 +5,7 @@
 ## 导航
 
 - [节点列表](#节点列表)
+	- [2021-10-19日更新](#2021-10-19日更新)
 	- [2021-10-18日更新](#2021-10-18日更新)
 - [客户端下载](#客户端下载)
 - [使用方式](#使用方式)
@@ -12,6 +13,14 @@
  	- [linux](#linux)
 
 ## 节点列表
+
+### 2021-10-19日更新
+
+|地区|协议|url|
+|---|---|:---|
+|韩国|trojan|trojan://tMzUOS@162.14.8.82:10514?allowInsecure=1&peer=download.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E9%9F%A9%E5%9B%BDKR++%C2%B7+158++%C2%B7+Anycast+BGP|
+|香港|V2Ray| vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgRDE3OSDCtyBJRVBM5LiT57q/IiwiYWRkIjoiaGs3anh4LnQzdi5mdW4iLCJwb3J0IjoxNzU4MywiaWQiOiJkMmQ4OWFhYi04YmQ0LTg4ZjktYTY3Ni0xMzljOWM5YTFmNTIiLCJhaWQiOiIiLCJob3N0IjoiaGs3anh4LnQzdi5mdW4iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii94NXgiLCJ0bHMiOiJ0bHMifQ== |
+|香港|trojan|trojan://tMzUOS@59.38.139.16:17583?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+D179+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
 
 ### 2021-10-18日更新
 
