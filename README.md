@@ -5,6 +5,7 @@
 ## 导航
 
 - [节点列表](#节点列表)
+	- [2021-10-22日更新](#2021-10-22日更新)
 	- [2021-10-21日更新](#2021-10-21日更新)
 	- [2021-10-20日更新](#2021-10-20日更新)
 	- [2021-10-19日更新](#2021-10-19日更新)
@@ -15,6 +16,14 @@
  	- [linux](#linux)
 
 ## 节点列表
+
+### 2021-10-22日更新
+
+|地区|协议|url|
+|---|---|:---|
+|美国|trojan|trojan://tMzUOS@59.38.139.16:17510?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+73+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
+|美国|V2Ray|vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg576O5Zu9VVMgwrcgNzMgwrcgSUVQTOS4k+e6vyIsImFkZCI6InVzM2d4dS50M3YuZnVuIiwicG9ydCI6MTc1MTAsImlkIjoiZDJkODlhYWItOGJkNC04OGY5LWE2NzYtMTM5YzljOWExZjUyIiwiYWlkIjoiIiwiaG9zdCI6InVzM2d4dS50M3YuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd2IzbTIiLCJ0bHMiOiJ0bHMifQ==|
+|香港|trojan|trojan://tMzUOS@183.240.60.128:18021?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+G73+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
 
 ### 2021-10-21日更新
 
