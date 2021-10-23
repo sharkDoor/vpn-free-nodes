@@ -5,6 +5,7 @@
 ## 导航
 
 - [节点列表](#节点列表)
+	- [2021-10-23日更新](#2021-10-23日更新)
 	- [2021-10-22日更新](#2021-10-22日更新)
 	- [2021-10-21日更新](#2021-10-21日更新)
 	- [2021-10-20日更新](#2021-10-20日更新)
@@ -16,6 +17,13 @@
  	- [linux](#linux)
 
 ## 节点列表
+
+### 2021-10-23日更新
+
+|地区|协议|url|
+|---|---|:---|
+|乌克兰|trojan|trojan://tMzUOS@162.14.11.135:10613?allowInsecure=1&peer=ctldl.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E4%B9%8C%E5%85%8B%E5%85%B0UA+%C2%B7+Anycast+BGP|
+|韩国|trojan|trojan://tMzUOS@162.14.8.82:10536?allowInsecure=1&peer=download.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E9%9F%A9%E5%9B%BDKR++%C2%B7+157++%C2%B7+Anycast+BGP|
 
 ### 2021-10-22日更新
 
