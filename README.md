@@ -10,7 +10,7 @@
 优质线路：IEPL / IPLC 国际专线、Anycast BGP 网络
 全 平 台：支持手机、电脑、路由器同时使用
 无惧封锁：海外企业安全稳定，Trojan、V2Ray协议超强抗封锁
-※立即使用西部世界: https://xbsj6148.xyz/i/iv211026/DMxdXhA
+※立即使用: https://xbsj6148.xyz/i/iv211026/DMxdXhA
 
 ## 导航
 
