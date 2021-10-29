@@ -21,7 +21,8 @@
 ## 导航
 
 - [节点列表](#节点列表)
-	- [2021-10-25日更新](#2021-10-25日更新)
+	- [2021-10-29日更新](#2021-10-29日更新)
+        - [2021-10-25日更新](#2021-10-25日更新)
 	- [2021-10-23日更新](#2021-10-23日更新)
 	- [2021-10-22日更新](#2021-10-22日更新)
 	- [2021-10-21日更新](#2021-10-21日更新)
@@ -35,16 +36,22 @@
 
 ## 节点列表
 
+### 2021-10-29日更新
+
+|地区|协议|url|
+|---|---|:---|
+|美国|trojan|trojan://Zy6IGS@59.38.139.16:17532?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+148+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
+
 ### 2021-10-25日更新
 
 |地区|协议|url|
 |---|---|:---|
-|日本|trojan|trojan://Rv979U@183.240.60.128:18004?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+62+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
-|日本|V2ray|vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgNjIgwrcgSUVQTOS4k+e6vyIsImFkZCI6ImpwemZ2OC50NHYuZnVuIiwicG9ydCI6MTgwMDQsImlkIjoiNjcxMmUzNTYtMGU3ZC1kNTMzLTAxMjQtYzYwMWU0ZGZhZmE5IiwiYWlkIjoiIiwiaG9zdCI6ImpwemZ2OC50NHYuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==|
-|美国|trojan|trojan://Rv979U@183.240.60.130:18014?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+145+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
-|美国|V2ray|vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg576O5Zu9VVMgwrcgMTQ1IMK3IElFUEzkuJPnur8iLCJhZGQiOiJ1c3J6eTcudDR2LmZ1biIsInBvcnQiOjE4MDE0LCJpZCI6IjY3MTJlMzU2LTBlN2QtZDUzMy0wMTI0LWM2MDFlNGRmYWZhOSIsImFpZCI6IiIsImhvc3QiOiJ1c3J6eTcudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=|
-|香港|trojan|trojan://Rv979U@183.240.60.130:18017?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+O93+%C2%B7+IEPL%E4%B8%93%E7%BA%BF|
-|香港|V2ray|vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgTzkzIMK3IElFUEzkuJPnur8iLCJhZGQiOiJoazRubXYudDR2LmZ1biIsInBvcnQiOjE4MDE3LCJpZCI6IjY3MTJlMzU2LTBlN2QtZDUzMy0wMTI0LWM2MDFlNGRmYWZhOSIsImFpZCI6IiIsImhvc3QiOiJoazRubXYudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3FqcSIsInRscyI6InRscyJ9|
+|日本|trojan|~~trojan://Rv979U@183.240.60.128:18004?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+62+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
+|日本|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgNjIgwrcgSUVQTOS4k+e6vyIsImFkZCI6ImpwemZ2OC50NHYuZnVuIiwicG9ydCI6MTgwMDQsImlkIjoiNjcxMmUzNTYtMGU3ZC1kNTMzLTAxMjQtYzYwMWU0ZGZhZmE5IiwiYWlkIjoiIiwiaG9zdCI6ImpwemZ2OC50NHYuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==~~|
+|美国|trojan|~~trojan://Rv979U@183.240.60.130:18014?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+145+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
+|美国|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg576O5Zu9VVMgwrcgMTQ1IMK3IElFUEzkuJPnur8iLCJhZGQiOiJ1c3J6eTcudDR2LmZ1biIsInBvcnQiOjE4MDE0LCJpZCI6IjY3MTJlMzU2LTBlN2QtZDUzMy0wMTI0LWM2MDFlNGRmYWZhOSIsImFpZCI6IiIsImhvc3QiOiJ1c3J6eTcudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=~~|
+|香港|trojan|~~trojan://Rv979U@183.240.60.130:18017?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+O93+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
+|香港|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgTzkzIMK3IElFUEzkuJPnur8iLCJhZGQiOiJoazRubXYudDR2LmZ1biIsInBvcnQiOjE4MDE3LCJpZCI6IjY3MTJlMzU2LTBlN2QtZDUzMy0wMTI0LWM2MDFlNGRmYWZhOSIsImFpZCI6IiIsImhvc3QiOiJoazRubXYudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3FqcSIsInRscyI6InRscyJ9~~|
 
 ### 2021-10-23日更新
 
