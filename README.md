@@ -49,7 +49,7 @@
 
 |地区|协议|url|
 |---|---|:---|
-|日本|~~trojan|trojan://Zy6IGS@183.240.60.128:18033?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+206+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
+|日本|trojan|~~trojan://Zy6IGS@183.240.60.128:18033?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+206+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
 |日本|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgMjA2IMK3IElFUEzkuJPnur8iLCJhZGQiOiJqcGs0MWoudDR2LmZ1biIsInBvcnQiOjE4MDMzLCJpZCI6ImM5ZWM5NDg4LTI2OTYtZDgxOS0xYmEyLTg4MjlhNGJiMzg4YyIsImFpZCI6IiIsImhvc3QiOiJqcGs0MWoudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=~~|
 
 ### 2021-10-29日更新
