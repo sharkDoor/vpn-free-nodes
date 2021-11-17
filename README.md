@@ -56,7 +56,7 @@
 
 |地区|协议|url|
 |---|---|:---|
-|美国|~~trojan|trojan://Zy6IGS@59.38.139.16:17532?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+148+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
+|美国|trojan|~~trojan://Zy6IGS@59.38.139.16:17532?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+148+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
 |美国|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg576O5Zu9VVMgwrcgMTQ4IMK3IElFUEzkuJPnur8iLCJhZGQiOiJ1c3Y1MW0udDN2LmZ1biIsInBvcnQiOjE3NTMyLCJpZCI6ImM5ZWM5NDg4LTI2OTYtZDgxOS0xYmEyLTg4MjlhNGJiMzg4YyIsImFpZCI6IiIsImhvc3QiOiJ1c3Y1MW0udDN2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=~~|
 
 ### 2021-10-25日更新
