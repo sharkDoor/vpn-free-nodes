@@ -21,6 +21,7 @@
 ## 导航
 
 - [节点列表](#节点列表)
+	- [2021-12-14日更新](#2021-12-14日更新)
 	- [2021-12-07日更新](#2021-12-07日更新)
 	- [2021-11-17日更新](#2021-11-17日更新)
 	- [2021-11-01日更新](#2021-11-01日更新)
@@ -39,12 +40,21 @@
 
 ## 节点列表
 
+### 2021-12-14日更新
+
+|地区|协议|url|
+|---|---|:---|
+|日本|trojan|trojan://uj9t36@58.32.15.134:11001?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+242+%C2%B7+%E6%B2%AA%E5%8F%B0%E8%81%94%E9%80%9A|
+|美国|trojan|trojan://uj9t36@120.233.151.81:18082?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+104+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8|
+|香港|trojan|trojan://uj9t36@120.233.151.82:18017?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+O93+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8|
+|香港|V2ray|vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgTzk2IMK3IOS9m+a4r+eUteS/oSIsImFkZCI6ImhremJnZy50M3YuZnVuIiwicG9ydCI6MTc1MTYsImlkIjoiMDIwNThhOTUtMzU1YS0xZGM3LTVkMGYtZjY2MGRhMWRkZDBmIiwiYWlkIjoiIiwiaG9zdCI6ImhremJnZy50M3YuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZHVoIiwidGxzIjoidGxzIn0=|
+
 ### 2021-12-07日更新
 
 |地区|协议|url|
 |---|---|:---|
-|美国|trojan|trojan://wxb9YI@120.233.151.53:17535?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+222+%C2%B7+%E4%BD%9B%E6%B8%AF%E7%94%B5%E4%BF%A1|
-|美国|trojan|trojan://wxb9YI@120.233.151.81:18037?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+248+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8|
+|美国|trojan|~~trojan://wxb9YI@120.233.151.53:17535?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+222+%C2%B7+%E4%BD%9B%E6%B8%AF%E7%94%B5%E4%BF%A1~~|
+|美国|trojan|~~trojan://wxb9YI@120.233.151.81:18037?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+248+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8~~|
 
 ### 2021-11-17日更新
 
