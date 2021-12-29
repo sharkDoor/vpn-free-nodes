@@ -16,7 +16,7 @@
 
 无惧封锁：海外企业安全稳定，Trojan、V2Ray协议超强抗封锁
 
-※立即使用: https://xbsj6148.xyz/i/iv211026/DMxdXhA
+※立即使用: https://wwsj1783.xyz/i/osx117/DMxdXhA
 
 ## 导航
 
