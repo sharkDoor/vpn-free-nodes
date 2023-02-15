@@ -40,6 +40,11 @@
 
 ## 节点列表
 
+### 2023-02-15日更新
+|地区|协议|url|
+|---|---|:---|
+|日本|Trojan|trojan://c3h1Iy@221.181.185.13:28132?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+209+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8|
+
 ### 2021-12-14日更新
 
 |地区|协议|url|
