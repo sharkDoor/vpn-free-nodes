@@ -17,12 +17,17 @@ tar xvf trojan-1.15.1-linux-amd64.tar.xz
 * 打开配置文件
 
 cd /usr/src/trojan
+
 vi config.json
+
 按i进入编辑模式
+
 run_type 修改为 "client"
+
 local_port 修改为 1080
-remote_addr 修改为 jpo123.ovod.me
-remote_port 修改为 22201
+
+remote_addr 修改为 代理节点ip
+remote_port 修改为 代理节点端口
 password 修改为 ["123456"]（节点的密码）
 示例如下
 ```
