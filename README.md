@@ -1,157 +1,18 @@
 # vpn-free-nodes
 
-不定时更新分享免费的vpn节点，主要提供免费Trojan节点和免费V2Ray节点，这两种是快速稳定的vpn代理协议，可以随时随地搭建自己的梯子科学上网。（`节点数据来源于网络，如有问题可随时联系 shark.door@outlook.com`）
+不定时更新分享免费的vpn节点，主要提供免费Trojan节点和免费V2Ray节点，这两种是快速稳定的vpn代理协议，可以随时随地搭建自己的梯子科学上网，秒开YouTube、Ins。
 
-## 快速稳定不掉线
+注意：节点数据来源于网络，仅做优选和收集，如有问题可随时联系 shark.door@outlook.com
 
-给大家安利个超靠谱的梯子，注册免费送三天，全站专线不限速！
+## 声明
 
-速度超快，秒开YouTube、Ins，还能看奈飞/Netflix、Hulu、HBO、动画疯、TVB、Apple TV...
-
-全球加速：香港 / 韩国 / 台湾 / 美国 / 日本 / 英国 等20个地区
-
-优质线路：IEPL / IPLC 国际专线、Anycast BGP 网络 
-
-全 平 台：支持手机、电脑、路由器同时使用
-
-无惧封锁：海外企业安全稳定，Trojan、V2Ray协议超强抗封锁
-
-※立即使用: https://wwsj1783.xyz/i/osx117/DMxdXhA
+本项目仅限**个人**使用，禁止使用本项目进行营利和做其他违法事情，产生的一切后果本项目概不负责！
 
 ## 导航
-
-- [节点列表](#节点列表)
-	- [2023-02-15日更新](#2023-02-15日更新)
-	- [2021-12-14日更新](#2021-12-14日更新)
-	- [2021-12-07日更新](#2021-12-07日更新)
-	- [2021-11-17日更新](#2021-11-17日更新)
-	- [2021-11-01日更新](#2021-11-01日更新)
-	- [2021-10-29日更新](#2021-10-29日更新)
-	- [2021-10-25日更新](#2021-10-25日更新)
-	- [2021-10-23日更新](#2021-10-23日更新)
-	- [2021-10-22日更新](#2021-10-22日更新)
-	- [2021-10-21日更新](#2021-10-21日更新)
-	- [2021-10-20日更新](#2021-10-20日更新)
-	- [2021-10-19日更新](#2021-10-19日更新)
-	- [2021-10-18日更新](#2021-10-18日更新)
 - [客户端下载](#客户端下载)
 - [使用方式](#使用方式)
- 	- [客户端下载](#客户端下载)
- 	- [linux](#linux)
-
-## 节点列表
-
-### 2023-02-15日更新
-
-|地区|协议|url|
-|---|---|:---|
-|日本|Trojan|trojan://c3h1Iy@221.181.185.13:28132?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+209+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8|
-
-### 2021-12-14日更新
-
-|地区|协议|url|
-|---|---|:---|
-|日本|trojan|trojan://uj9t36@58.32.15.134:11001?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+242+%C2%B7+%E6%B2%AA%E5%8F%B0%E8%81%94%E9%80%9A|
-|美国|trojan|trojan://uj9t36@120.233.151.81:18082?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+104+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8|
-|香港|trojan|trojan://uj9t36@120.233.151.82:18017?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+O93+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8|
-|香港|V2ray|vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgTzk2IMK3IOS9m+a4r+eUteS/oSIsImFkZCI6ImhremJnZy50M3YuZnVuIiwicG9ydCI6MTc1MTYsImlkIjoiMDIwNThhOTUtMzU1YS0xZGM3LTVkMGYtZjY2MGRhMWRkZDBmIiwiYWlkIjoiIiwiaG9zdCI6ImhremJnZy50M3YuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZHVoIiwidGxzIjoidGxzIn0=|
-
-### 2021-12-07日更新
-
-|地区|协议|url|
-|---|---|:---|
-|美国|trojan|~~trojan://wxb9YI@120.233.151.53:17535?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+222+%C2%B7+%E4%BD%9B%E6%B8%AF%E7%94%B5%E4%BF%A1~~|
-|美国|trojan|~~trojan://wxb9YI@120.233.151.81:18037?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+248+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8~~|
-
-### 2021-11-17日更新
-
-|地区|协议|url|
-|---|---|:---|
-|日本|trojan|~~trojan://3bk1dJ@120.233.151.81:18036?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+221+%C2%B7+%E5%B9%BF%E6%B8%AF%E7%A7%BB%E5%8A%A8~~|
-|日本|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgMjIxIMK3IOW5v+a4r+enu+WKqCIsImFkZCI6ImpwcDg2Yy50NHYuZnVuIiwicG9ydCI6MTgwMzYsImlkIjoiYWZlZWU1ODYtOTBkZC00ODNjLWJkYmMtYmJkYTcwODM3NTg2IiwiYWlkIjoiIiwiaG9zdCI6ImpwcDg2Yy50NHYuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==~~|
-
-### 2021-11-01日更新
-
-|地区|协议|url|
-|---|---|:---|
-|日本|trojan|~~trojan://Zy6IGS@183.240.60.128:18033?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+206+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|日本|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgMjA2IMK3IElFUEzkuJPnur8iLCJhZGQiOiJqcGs0MWoudDR2LmZ1biIsInBvcnQiOjE4MDMzLCJpZCI6ImM5ZWM5NDg4LTI2OTYtZDgxOS0xYmEyLTg4MjlhNGJiMzg4YyIsImFpZCI6IiIsImhvc3QiOiJqcGs0MWoudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=~~|
-
-### 2021-10-29日更新
-
-|地区|协议|url|
-|---|---|:---|
-|美国|trojan|~~trojan://Zy6IGS@59.38.139.16:17532?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+148+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|美国|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg576O5Zu9VVMgwrcgMTQ4IMK3IElFUEzkuJPnur8iLCJhZGQiOiJ1c3Y1MW0udDN2LmZ1biIsInBvcnQiOjE3NTMyLCJpZCI6ImM5ZWM5NDg4LTI2OTYtZDgxOS0xYmEyLTg4MjlhNGJiMzg4YyIsImFpZCI6IiIsImhvc3QiOiJ1c3Y1MW0udDN2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=~~|
-
-### 2021-10-25日更新
-
-|地区|协议|url|
-|---|---|:---|
-|日本|trojan|~~trojan://Rv979U@183.240.60.128:18004?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+62+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|日本|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgNjIgwrcgSUVQTOS4k+e6vyIsImFkZCI6ImpwemZ2OC50NHYuZnVuIiwicG9ydCI6MTgwMDQsImlkIjoiNjcxMmUzNTYtMGU3ZC1kNTMzLTAxMjQtYzYwMWU0ZGZhZmE5IiwiYWlkIjoiIiwiaG9zdCI6ImpwemZ2OC50NHYuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==~~|
-|美国|trojan|~~trojan://Rv979U@183.240.60.130:18014?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+145+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|美国|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg576O5Zu9VVMgwrcgMTQ1IMK3IElFUEzkuJPnur8iLCJhZGQiOiJ1c3J6eTcudDR2LmZ1biIsInBvcnQiOjE4MDE0LCJpZCI6IjY3MTJlMzU2LTBlN2QtZDUzMy0wMTI0LWM2MDFlNGRmYWZhOSIsImFpZCI6IiIsImhvc3QiOiJ1c3J6eTcudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=~~|
-|香港|trojan|~~trojan://Rv979U@183.240.60.130:18017?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+O93+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|香港|V2ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgTzkzIMK3IElFUEzkuJPnur8iLCJhZGQiOiJoazRubXYudDR2LmZ1biIsInBvcnQiOjE4MDE3LCJpZCI6IjY3MTJlMzU2LTBlN2QtZDUzMy0wMTI0LWM2MDFlNGRmYWZhOSIsImFpZCI6IiIsImhvc3QiOiJoazRubXYudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3FqcSIsInRscyI6InRscyJ9~~|
-
-### 2021-10-23日更新
-
-|地区|协议|url|
-|---|---|:---|
-|乌克兰|trojan|~~trojan://tMzUOS@162.14.11.135:10613?allowInsecure=1&peer=ctldl.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E4%B9%8C%E5%85%8B%E5%85%B0UA+%C2%B7+Anycast+BGP~~|
-|韩国|trojan|~~trojan://tMzUOS@162.14.8.82:10536?allowInsecure=1&peer=download.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E9%9F%A9%E5%9B%BDKR++%C2%B7+157++%C2%B7+Anycast+BGP~~|
-
-### 2021-10-22日更新
-
-|地区|协议|url|
-|---|---|:---|
-|美国|trojan|~~trojan://tMzUOS@59.38.139.16:17510?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+73+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|美国|V2Ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg576O5Zu9VVMgwrcgNzMgwrcgSUVQTOS4k+e6vyIsImFkZCI6InVzM2d4dS50M3YuZnVuIiwicG9ydCI6MTc1MTAsImlkIjoiZDJkODlhYWItOGJkNC04OGY5LWE2NzYtMTM5YzljOWExZjUyIiwiYWlkIjoiIiwiaG9zdCI6InVzM2d4dS50M3YuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd2IzbTIiLCJ0bHMiOiJ0bHMifQ==~~|
-|香港|trojan|~~trojan://tMzUOS@183.240.60.128:18021?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+G73+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-
-### 2021-10-21日更新
-
-|地区|协议|url|
-|---|---|:---|
-|意大利|trojan|~~trojan://tMzUOS@162.14.11.135:10614?allowInsecure=1&peer=ctldl.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E6%84%8F%E5%A4%A7%E5%88%A9IT+%C2%B7+Anycast+BGP~~|
-|俄罗斯|trojan|~~trojan://tMzUOS@162.14.11.135:10615?allowInsecure=1&peer=download.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E4%BF%84%E7%BD%97%E6%96%AFRU+%C2%B7+Anycast+BGP~~|
-|韩国|trojan|~~trojan://tMzUOS@162.14.8.82:10537?allowInsecure=1&peer=download.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E9%9F%A9%E5%9B%BDKR++%C2%B7+242++%C2%B7+Anycast+BGP~~|
-
-### 2021-10-20日更新
-
-|地区|协议|url|
-|---|---|:---|
-|波兰|trojan|~~trojan://tMzUOS@162.14.11.135:10612?allowInsecure=1&peer=ctldl.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E6%B3%A2%E5%85%B0PO+%C2%B7+Anycast+BGP~~|
-|荷兰|trojan| ~~trojan://tMzUOS@162.14.11.135:10623?allowInsecure=1&peer=download.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E8%8D%B7%E5%85%B0NL+%C2%B7+Anycast+BGP~~|
-|德国|trojan|~~trojan://tMzUOS@162.14.11.135:10624?allowInsecure=1&peer=download.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E5%BE%B7%E5%9B%BDDE+%C2%B7+Anycast+BGP~~|
-
-### 2021-10-19日更新
-
-|地区|协议|url|
-|---|---|:---|
-|韩国|trojan|~~trojan://tMzUOS@162.14.8.82:10514?allowInsecure=1&peer=download.windowsupdate.com#%E5%95%86%E5%8A%A1+%C2%B7+%E9%9F%A9%E5%9B%BDKR++%C2%B7+158++%C2%B7+Anycast+BGP~~|
-|香港|V2Ray| ~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgRDE3OSDCtyBJRVBM5LiT57q/IiwiYWRkIjoiaGs3anh4LnQzdi5mdW4iLCJwb3J0IjoxNzU4MywiaWQiOiJkMmQ4OWFhYi04YmQ0LTg4ZjktYTY3Ni0xMzljOWM5YTFmNTIiLCJhaWQiOiIiLCJob3N0IjoiaGs3anh4LnQzdi5mdW4iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii94NXgiLCJ0bHMiOiJ0bHMifQ==~~ |
-|香港|trojan|~~trojan://tMzUOS@59.38.139.16:17583?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+D179+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-
-### 2021-10-18日更新
-
-|地区|协议|url|
-|---|---|:---|
-|日本|trojan|~~trojan://tMzUOS@183.240.60.128:18004?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+62+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|日本|V2Ray|  ~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgNjIgwrcgSUVQTOS4k+e6vyIsImFkZCI6ImpwemZ2OC50NHYuZnVuIiwicG9ydCI6MTgwMDQsImlkIjoiZDJkODlhYWItOGJkNC04OGY5LWE2NzYtMTM5YzljOWExZjUyIiwiYWlkIjoiIiwiaG9zdCI6ImpwemZ2OC50NHYuZnVuIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==~~  |
-|日本|trojan|~~trojan://tMzUOS@59.38.139.16:17509?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+214+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|日本|V2Ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5pel5pysSlAgwrcgMjIzIMK3IElFUEzkuJPnur8iLCJhZGQiOiJqcGZ6Y3oudDR2LmZ1biIsInBvcnQiOjE4MDEwLCJpZCI6ImQyZDg5YWFiLThiZDQtODhmOS1hNjc2LTEzOWM5YzlhMWY1MiIsImFpZCI6IiIsImhvc3QiOiJqcGZ6Y3oudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=~~|
-|美国|trojan|~~trojan://tMzUOS@59.38.139.16:17511?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+104+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|美国|V2Ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg576O5Zu9VVMgwrcgMTA0IMK3IElFUEzkuJPnur8iLCJhZGQiOiJ1c2szdzMudDN2LmZ1biIsInBvcnQiOjE3NTExLCJpZCI6ImQyZDg5YWFiLThiZDQtODhmOS1hNjc2LTEzOWM5YzlhMWY1MiIsImFpZCI6IiIsImhvc3QiOiJ1c2szdzMudDN2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=~~|
-|美国|trojan|~~trojan://tMzUOS@183.240.60.130:18068?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+148+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|美国|V2Ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg576O5Zu9VVMgwrcgMTQ4IMK3IElFUEzkuJPnur8iLCJhZGQiOiJ1c3J4ZGQudDR2LmZ1biIsInBvcnQiOjE4MDY4LCJpZCI6ImQyZDg5YWFiLThiZDQtODhmOS1hNjc2LTEzOWM5YzlhMWY1MiIsImFpZCI6IiIsImhvc3QiOiJ1c3J4ZGQudDR2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2N2NCIsInRscyI6InRscyJ9~~|
-|新加坡|trojan|~~trojan://tMzUOS@59.38.139.16:17515?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E6%96%B0%E5%8A%A0%E5%9D%A1SP+%C2%B7+141+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|新加坡|V2Ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg5paw5Yqg5Z2hU1AgwrcgMTQxIMK3IElFUEzkuJPnur8iLCJhZGQiOiJzcGZydmYudDN2LmZ1biIsInBvcnQiOjE3NTE1LCJpZCI6ImQyZDg5YWFiLThiZDQtODhmOS1hNjc2LTEzOWM5YzlhMWY1MiIsImFpZCI6IiIsImhvc3QiOiJzcGZydmYudDN2LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0=~~|
-|香港|trojan|~~trojan://tMzUOS@183.240.60.128:18074?allowInsecure=1&peer=download.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+D137+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|香港|V2Ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgRDEzNyDCtyBJRVBM5LiT57q/IiwiYWRkIjoiaGtiNDlqLnQ0di5mdW4iLCJwb3J0IjoxODA3NCwiaWQiOiJkMmQ4OWFhYi04YmQ0LTg4ZjktYTY3Ni0xMzljOWM5YTFmNTIiLCJhaWQiOiIiLCJob3N0IjoiaGtiNDlqLnQ0di5mdW4iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii82Y3ciLCJ0bHMiOiJ0bHMifQ==~~|
-|香港|trojan|~~trojan://tMzUOS@183.240.60.128:18080?allowInsecure=1&peer=ctldl.windowsupdate.com#IEPL+%C2%B7+%E9%A6%99%E6%B8%AFHK+%C2%B7+D116+%C2%B7+IEPL%E4%B8%93%E7%BA%BF~~|
-|香港|V2Ray|~~vmess://eyJ2IjoyLCJwcyI6IklFUEwgwrcg6aaZ5rivSEsgwrcgRDExNiDCtyBJRVBM5LiT57q/IiwiYWRkIjoiaGtjZ2ViLnQ0di5mdW4iLCJwb3J0IjoxODA4MCwiaWQiOiJkMmQ4OWFhYi04YmQ0LTg4ZjktYTY3Ni0xMzljOWM5YTFmNTIiLCJhaWQiOiIiLCJob3N0IjoiaGtjZ2ViLnQ0di5mdW4iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9wMDkiLCJ0bHMiOiJ0bHMifQ==~~|
+    - [客户端下载](#客户端下载)
+    - [linux](#linux)
 
 
 ## 使用方式
@@ -180,4 +41,3 @@ https://github.com/sharkDoor/vpn_free_nodes/tree/master/client
 ### linux
 
 https://github.com/sharkDoor/vpn_free_nodes/tree/master/linux
-
