@@ -14,6 +14,7 @@
 - [使用方式](#使用方式)
     - [客户端下载](#客户端下载)
     - [linux](#linux)
+- [打赏](#打赏)
 
 ## 节点列表
 
@@ -49,6 +50,7 @@ https://github.com/sharkDoor/vpn_free_nodes/tree/master/linux
 ### 打赏
 
 如果你觉得这个项目帮助到了你，你可以请我喝一杯茶~~
+
 ![pay](https://user-images.githubusercontent.com/92512556/221833122-bafc739b-15ee-4b01-812c-022b518eba49.png)
 
 
