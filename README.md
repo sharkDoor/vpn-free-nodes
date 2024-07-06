@@ -5,7 +5,7 @@
 注意：节点数据来源于网络，仅做优选和收集，如有问题可随时联系 shark.door@outlook.com
 
 
-## [点击获取更多稳定节点资源](https://lanhaijiasu.biz/#/register?code=DKfv14ZN)
+## [点击获取更多稳定节点资源](https://lanhai02.app/#/register?code=DKfv14ZN)
 
 ## [每个邮箱免费独享节点使用3天](https://xbww38261.xyz/i/osx200/DMxdXhA)
 
