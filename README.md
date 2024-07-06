@@ -7,7 +7,7 @@
 
 ## [点击获取更多稳定节点资源](https://lanhai02.app/#/register?code=DKfv14ZN)
 
-## [每个邮箱免费独享节点使用3天](https://xbww38261.xyz/i/osx200/DMxdXhA)
+## [每个邮箱免费独享节点使用3天](https://xbsj6148.xyz/i/iv240706/DMxdXhA)
 
 ## 声明
 
